@@ -1,1 +1,1 @@
-export const API_URL = "http://localhost:5000/api/turnos";
+export const API_URL = "https://final-back-1-rzpe.onrender.com";
