@@ -24,7 +24,7 @@ try{
                 value={username}
                 onChange={(e) => setUsername(e.target.value)}
                 required />
-            <input type="text"
+            <input type="password"
                 placeholder="Contraseña"
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
