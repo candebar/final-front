@@ -8,7 +8,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Formulario from './Componentes/Formulario/Formulario'
 import Tarjetaquincho from './Componentes/Tarjeta/Tarjeta'
 import Eventos from './Componentes/Eventos/Eventos'
-import Register from './Componentes/Api/Register'
+import Register from './Componentes/api/Register'
 
 function App() {
 
